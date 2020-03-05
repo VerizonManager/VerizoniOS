@@ -1,0 +1,6 @@
+use_frameworks!
+target 'VerizoniOS_Tests' do
+  pod 'VerizoniOS', :path => '../'
+  
+  
+end
