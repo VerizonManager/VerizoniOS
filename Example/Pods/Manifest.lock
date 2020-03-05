@@ -1,0 +1,16 @@
+PODS:
+  - VerizoniOS (0.1.0)
+
+DEPENDENCIES:
+  - VerizoniOS (from `../`)
+
+EXTERNAL SOURCES:
+  VerizoniOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VerizoniOS: 8d439f3346b9d9302f15d1f45680cfcc7917dbac
+
+PODFILE CHECKSUM: 163b85b27bc2695b21e1ad74b5b8b5f30f6f2cbc
+
+COCOAPODS: 1.9.0
