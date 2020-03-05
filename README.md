@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VerizoniOS
 
 [![CI Status](https://img.shields.io/travis/VerizonManager/VerizoniOS.svg?style=flat)](https://travis-ci.org/VerizonManager/VerizoniOS)
@@ -27,3 +28,6 @@ VerizonManager, betsy.john@infosys.com
 ## License
 
 VerizoniOS is available under the MIT license. See the LICENSE file for more info.
+=======
+# VerizoniOS
+>>>>>>> b19f441dd6b8ef9959e9eb009a683a3bcb9b2f2a
