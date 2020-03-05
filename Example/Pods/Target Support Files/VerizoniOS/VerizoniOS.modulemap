@@ -1,6 +1,0 @@
-framework module VerizoniOS {
-  umbrella header "VerizoniOS-umbrella.h"
-
-  export *
-  module * { export * }
-}
